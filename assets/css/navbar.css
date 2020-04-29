@@ -1,0 +1,11 @@
+.topbar {
+	height: 6vh;
+	max-height: 1em;
+	background: url('../images/topbar.png');
+	background-size: contain;
+	padding: .78125vh;
+	border-bottom: .05208vh solid black;
+	font-family: 'nintendo_ds_biosregular', 'Georgia', serif;
+	font-size: xx-large;
+	line-height: 1em;
+}

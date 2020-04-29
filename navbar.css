@@ -1,8 +1,0 @@
-.topbar {
-	height: 6vh;
-	max-height: 1em;
-	background: url('topbar.png');
-	background-size: contain;
-	padding: .78125vh;
-	border-bottom: .05208vh solid black;
-}

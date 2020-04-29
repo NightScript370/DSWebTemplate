@@ -1,0 +1,18 @@
+body {
+    background: url('../images/background.png');
+    color: white;
+    margin: 0;
+    font-family: 'nintendo_ntlg-db_001regular', 'Georgia', serif;
+}
+
+.center {
+    text-align: center;
+}
+
+.headingTableCenter {
+    background: rgba(0,0,0, 0.7)
+}
+
+.subCellTrans {
+    background: rgba(0,0,0, 0.42);
+}
